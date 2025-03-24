@@ -40,7 +40,7 @@
 
 ---  
 ## **SKILLS & TOOLS**  
-- **Programming & Analytics:** SQL, Tableau, Excel,Python,Basic Machine learning 
+- **Programming & Analytics:** SQL, Tableau, Excel, Python, Basic Machine learning 
 - **Data Management:** Data Warehousing, ETL Processes, Data Visualization  
 - **Professional Skills:** Leadership, Communication, Problem Solving, Team Management, Performance Monitoring  
 - **Technical Skills:** Windows OS, Compliance Auditing, Data Analysis  
